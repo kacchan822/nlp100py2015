@@ -107,3 +107,5 @@ venv.bak/
 # End of https://www.gitignore.io/api/python
 
 chapter2/hightemp.txt
+chapter2/col*.txt
+chapter2/output_*
